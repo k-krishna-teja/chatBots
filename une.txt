@@ -1,0 +1,12 @@
+# Navigate to your project directory
+cd path\to\your\project
+
+# Create a virtual environment
+python -m venv env
+
+# Activate the virtual environment
+# For Command Prompt:
+env\Scripts\activate
+
+# For PowerShell:
+.\env\Scripts\Activate
